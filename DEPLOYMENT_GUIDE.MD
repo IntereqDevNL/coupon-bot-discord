@@ -1,4 +1,6 @@
-# 🚀 Deployment Guide: Ubuntu Server 24.04 This guide provides step-by-step instructions to deploy the Virtnet Coupon Bot on a Linux server (Ubuntu 24.04) running as the root user.1. PrerequisitesLogin to your server via SSH and install the required runtime environment.
+# 🚀 Deployment Guide: Ubuntu Server 24.04 
+
+This guide provides step-by-step instructions to deploy the Virtnet Coupon Bot on a Linux server (Ubuntu 24.04) running as the root user.1. PrerequisitesLogin to your server via SSH and install the required runtime environment.
 
 # Update system packages
 
